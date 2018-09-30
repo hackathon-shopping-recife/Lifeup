@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RECOIN</string>
+    <string name="title_home">Home</string>
+    <string name="discounts">Descontos</string>
+    <string name="purchases">Compras</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">308631496593979</string>
+    <string name="fb_login_protocol_scheme">fb308631496593979</string>
+
+</resources>

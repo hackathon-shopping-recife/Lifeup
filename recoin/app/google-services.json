@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "7476881880",
+    "firebase_url": "https://recoin-93df5.firebaseio.com",
+    "project_id": "recoin-93df5",
+    "storage_bucket": "recoin-93df5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7476881880:android:8e505b9af5f02b0a",
+        "android_client_info": {
+          "package_name": "com.lifeup.recpontos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7476881880-5o6mqpgs4qs63vm66obidjjk1d93ip5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPE62pqlEWz-uvXcJ6M5fFyozAgiFkPXU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
